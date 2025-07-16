@@ -22,7 +22,7 @@ PasswordVault is a Java desktop application for secure password management. It a
 5. Build and run the project.
 
 ## Usage
-- Add, search, generate, edit, and delete passwords securely.
+- Add, search, edit, and delete passwords securely.
 
 ## Database
 - Create a MySQL database named `passwordvault`.
