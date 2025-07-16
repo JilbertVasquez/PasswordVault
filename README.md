@@ -26,7 +26,7 @@ PasswordVault is a Java desktop application for secure password management. It a
 
 ## Database
 - Create a MySQL database named `passwordvault`.
-- Import the provided SQL schema.
+- Import the provided `Vault.sql` schema.
 
 ## Author
 - Developed by Jilbert Vasquez.
